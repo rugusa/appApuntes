@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use HolaMundoMultilenguaje\Saludo;
+use appApuntes\Saludo;
 
 class SaludoTest extends TestCase
 {
