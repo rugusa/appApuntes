@@ -25,7 +25,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color:rgb(195, 177, 177);
+            background-color:rgb(205, 202, 202);
             margin: 0;
         }
 
